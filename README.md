@@ -2,7 +2,7 @@
 
 ![docker version](https://img.shields.io/docker/v/efficimo/docker-yarn?sort=semver&label=docker%20version)
 ![docker pulls](https://img.shields.io/docker/pulls/efficimo/docker-yarn)
-![docker size](https://img.shields.io/docker/image-size/efficimo/docker-yarn)
+![docker size](https://img.shields.io/docker/image-size/efficimo/docker-yarn?sort=semver)
 
 Container for CI purpose
 
